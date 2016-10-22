@@ -1,0 +1,27 @@
+{
+    "about": "حول",
+	"appname": "مدرسة تخمر {{version}}",
+	"appready": "جاهز",
+	"currentlanguage": "اللغة الحالية",
+	"deviceinfo": "معلومات الجهاز",
+	"deviceos": "نظام تشغيل الجهاز",
+	"enablesyncwifi": "التزامن فقط في حال الاتصال بالشبكة اللاسلكية (Wi Fi)",
+	"syncsettings": "إعدادات التزامن",
+	"synchronizing": "تزامن",
+	"synchronization": "التزامن"
+	"reportinbackground": "أرسال تقارير الاخطاء اتوماتيكي",
+    "cacheexpirationtime": "وقت انتهاء صلاحية ذاكرة التخزين المؤقت (بالميلي ثانية)",
+    "currentlanguage": "اللغة الحالية",
+    "deletesitefiles": "هل أنت متأكد أنك تريد حذف الملفات التي تم تحميلها من هذا الموقع؟",
+    "development": "التطوير",
+    "enabledebugging": "تمكين التصحيح",
+    "estimatedfreespace": "تقدير المساحة الحرة",
+    "general": "العام",
+    "language": "اللغة",
+    "license": "الترخيص",
+    "settings": "الإعدادات",
+    "sites": "المواقع",
+    "spaceusage": "المساحة المستخدمة",
+    "success": "نجاح",
+    "total": "المجموع"
+}
