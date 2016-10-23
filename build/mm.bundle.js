@@ -19192,7 +19192,7 @@ angular.module('mm.addons.remotestyles')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.tahkmor.moodlemobile",
+    "app_id" : "edu.tahkmor.mobile",
     "versioncode" : "2016",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
@@ -19200,7 +19200,7 @@ angular.module('mm.core')
     "languages": {"ar": "عربي", "bg": "Български", "ca": "Català", "cs": "Čeština", "de": "Deutsch","en": "English", "es": "Español", "es-mx": "Español - México", "eu": "Euskara", "fa": "فارسی", "fr" : "Français", "he" : "עברית", "hu": "magyar", "it": "Italiano", "ja": "日本語","nl": "Nederlands", "pl": "Polski", "pt-br": "Português - Brasil", "ru": "Русский", "sv": "Svenska", "tr" : "Türkçe", "zh-cn" : "简体中文", "zh-tw" : "正體中文"},
     "wsservice" : "Tahkmor_mobile_app",
     "wsextservice" : "local_mobile",
-    "siteurl": "http://takmor.edu.jo",
+    "siteurl": "http://takhmor.edu.jo",
     "gcmpn": "644596545454569"
 }
 );
