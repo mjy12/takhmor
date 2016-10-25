@@ -19201,6 +19201,6 @@ angular.module('mm.core')
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "siteurl": "http://takhmor.edu.jo/",
-    "gcmpn": "66785853971"
+    "gcmpn": "895098915091"
 }
 );
