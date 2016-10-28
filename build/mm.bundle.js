@@ -19192,7 +19192,7 @@ angular.module('mm.addons.remotestyles')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "edu.tahkmor.mobile",
+    "app_id" : "edu.takhmor.mobile",
     "versioncode" : "2016",
     "versionname" : "1.1",
     "cache_expiration_time" : 300000,
