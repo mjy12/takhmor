@@ -2,7 +2,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "edu.takhmor.mobile"
+        id        = "com.moodle.moodlemobile"
         versionCode = "20160"
         version   = "1.1">
     <name>روضة ومدرسة تخمر</name>
