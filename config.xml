@@ -122,7 +122,7 @@
     <gap:plugin name="cordova-plugin-splashscreen" source="npm" />
 
     <gap:plugin name="phonegap-plugin-push" source="npm" version="1.7.0">
-        <param name="SENDER_ID" value="718614473663" />
+        <param name="SENDER_ID" value="694767596569" />
     </gap:plugin>
     <gap:plugin name="net.tunts.webintent" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm">
